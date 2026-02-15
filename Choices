@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Geography Revision Hub</title>
+</head>
+
+<body>
+    <h1>Welcome to Geography Revision</h1>
+    <p>This site helps SHS students revise Geography.</p>
+
+    <h2>Core Topics</h2>
+    <ul>
+        <li>Map Reading</li>
+        <li>Climate</li>
+        <li>Vegetation</li>
+    </ul>
+</body>
+</html>
